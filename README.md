@@ -1,36 +1,38 @@
-# Projeto Site de Exercicios Php
-Este seguinte projeto é uma atividade prática de uma aplicação de programação web, do curso de desenvolvimento de sistemas que estou cursando atualmente.
+# ✯ Projeto Site de Exercicios Php ✯
+#### Este seguinte projeto é uma atividade prática de uma aplicação de programação web, do curso de desenvolvimento de sistemas que estou cursando atualmente.
 
-O projeto desenvolvido é um aplicativo um site informativo de exemplos práticos de utilização do método POST na linguagem de programação php.
-O site é explicativo sobre todos os métodos apresentando também os exemplos práticos e os códigos práticos do exemplos práticos. 
+#### O projeto desenvolvido é um aplicativo um site informativo de exemplos práticos de utilização do método POST na linguagem de programação php.
+#### O site é explicativo sobre todos os métodos apresentando também os exemplos práticos e os códigos práticos do exemplos práticos. 
 
-1️⃣ - 
+#
 
-2️⃣ - 
+### ⟹ Exemplos práticos do site:
 
-3️⃣ - 
+1️⃣ - Elemento input, text e password 
 
-4️⃣ -
+2️⃣ - Elemento input, text e password 
 
-5️⃣ - 
+3️⃣ - Elemento checkbox  
 
-6️⃣ - 
+4️⃣ - Elemento checkbox 
 
-7️⃣ - 
+5️⃣ - Elemento checkbox 
 
-8️⃣ -  
+6️⃣ - Elemento radio
 
-9️⃣ - 
+7️⃣ - Elemento radio
 
-🔟 -
+8️⃣ - Elemento oculto 
 
-1️⃣1️⃣ - 
+9️⃣ - Elemento select 
+
+🔟 - Elemento textarea
 
 #
 
 ### Linguagens de programação que utilizei no projeto:
-<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 
-Html / Css / JavaScript
+JavaScript / Css / Php
 
 
