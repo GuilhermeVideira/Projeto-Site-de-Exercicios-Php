@@ -6,6 +6,26 @@ O site é explicativo sobre todos os métodos apresentando também os exemplos p
 
 1️⃣ - 
 
+2️⃣ - 
+
+3️⃣ - 
+
+4️⃣ -
+
+5️⃣ - 
+
+6️⃣ - 
+
+7️⃣ - 
+
+8️⃣ -  
+
+9️⃣ - 
+
+🔟 -
+
+1️⃣1️⃣ - 
+
 #
 
 ### Linguagens de programação que utilizei no projeto:
